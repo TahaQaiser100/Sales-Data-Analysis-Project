@@ -1,7 +1,3 @@
-Here's a sample GitHub README for your sales tracking application:
-
----
-
 # Sales Tracker
 
 A simple Python application for tracking and analyzing sales data. This application allows users to add sales records, view and filter sales history, generate a graph of filtered sales, and calculate total and average sales data. It also saves sales data in a CSV format for future reference.
@@ -54,8 +50,3 @@ Each sale includes:
 
 ## License
 
-This project is open-source and licensed under the MIT License.
-
----
-
-Feel free to customize this README based on additional features or instructions you might want to add.
